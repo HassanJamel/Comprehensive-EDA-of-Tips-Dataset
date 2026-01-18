@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="2.png" alt=" Exploratory Data Analysis (EDA) " width="900"/>
+</p>
+
 # مشروع تحليل سلوك العملاء في المطاعم  
 *(البيانات ستحكي لنا قصة المطاعم)* 
 
